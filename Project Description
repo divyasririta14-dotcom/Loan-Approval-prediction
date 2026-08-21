@@ -1,0 +1,25 @@
+1. Proiect Title
+Loan Approval Prediction Using Machine Learning
+
+
+2. Problem Statement
+To develop a machine learning system that predicts whether a loan application will be approved or rejected based on applicant and loan-related information such as income, credit history, loan amount, and employment status.
+
+
+3. Obiective
+To analyze and preprocess loan application data. 
+To identify important factors affecting loan approval.
+To build a machine learning model for loan approval prediction.  
+To evaluate the model using suitableclassification metrics.
+
+
+4. AI/ML Type
+AI/ML: Machine Learning
+Learning Type: Supervised Learning 
+Problem Type: Binary Classification 
+Target: Loan Approval Status - Approved/ Rejected 
+Algorithms: Logistic Regression, KNN, etc.
+
+
+5. Expected Outcome
+To develop a classification model that can accurately predict whether a new loan application is Approved or Rejected and evaluate its performance using Accuracy,Precision, Recall, and F1-score
